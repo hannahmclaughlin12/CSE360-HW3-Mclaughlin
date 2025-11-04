@@ -1,0 +1,10 @@
+package application;
+
+//Defines Role enum to assign user roles
+public enum UserRole {
+	admin,
+	student,
+	reviewer,
+	instructor,
+	staff
+}
