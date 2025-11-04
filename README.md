@@ -11,4 +11,6 @@ How to run HW3 tests - CONSOLE PRINT SHOWN IN HW3 DOC
 [HW3-Javadoc-tests.pdf](https://github.com/user-attachments/files/23322704/HW3-Javadoc-tests.pdf)
 
 ## Screencast
+https://youtu.be/o6wHERDfx5k
+
 
