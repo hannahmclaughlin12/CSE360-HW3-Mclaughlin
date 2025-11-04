@@ -8,4 +8,3 @@
 
 [HW3-Javadoc-tests.pdf](https://github.com/user-attachments/files/23322704/HW3-Javadoc-tests.pdf)
 
-[index.html](https://github.com/user-attachments/files/23322707/index.html)
